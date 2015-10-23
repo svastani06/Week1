@@ -1,0 +1,8 @@
+Enter file contents hereprint("Hello world")
+print("I am in my ISD class right now")
+name=input("Hi there, what is your name?")
+print("Hello",name,"How are you?")
+number_1=int(input("Give me first number"))
+number_2=int(input("Give me the second number"))
+print(number_1)
+print(number_2)
