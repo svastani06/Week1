@@ -1,0 +1,62 @@
+Enter file contents herePython 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:18:40) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> a=5
+>>> b=3
+>>> sum=a+b
+>>> print (sum)
+8
+>>> a=20
+>>> print (sum)
+8
+>>> ================================ RESTART ================================
+>>> 
+50
+>>> ================================ RESTART ================================
+>>> 
+Hello World
+What is your name?
+>>> ================================ RESTART ================================
+>>> 
+Hello World
+What is your name? Sahil
+ Sahil
+What is your name? Sahil 
+Traceback (most recent call last):
+  File "C:/Python33/ex2.py", line 4, in <module>
+    age = int(input("What is your name?"))
+ValueError: invalid literal for int() with base 10: ' Sahil '
+>>> ================================ RESTART ================================
+>>> 
+Hello World
+What is your name?Sahil
+Sahil
+What is your name?
+>>> ================================ RESTART ================================
+>>> 
+Hello World
+What is your name?Sahil
+Sahil
+What is your age? 20
+Hello  Sahil
+You are 20
+>>> ================================ RESTART ================================
+>>> 
+Hello World
+What is your name?Sahil
+Sahil
+What is your age?20
+Hello  Sahil
+You are 20
+In 10 years how old will you be?
+>>> 30
+30
+>>> ================================ RESTART ================================
+>>> 
+Hello World
+What is your name?Sahil 
+Sahil 
+What is your age?20
+Hello  Sahil 
+You are 20
+In 10 years how old will you be? 30
+>>> 
