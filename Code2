@@ -1,0 +1,10 @@
+Enter file contents hereprint ("Hello World")
+name = input ("What is your name?")
+print (name)
+age = int(input("What is your age?"))
+print ("Hello ",name)
+print ("You are",age)
+age = age + 10
+print ("In 10 years how old will you be?",age)
+
+          
